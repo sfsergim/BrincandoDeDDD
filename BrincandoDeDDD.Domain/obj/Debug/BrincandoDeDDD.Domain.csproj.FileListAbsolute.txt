@@ -1,0 +1,6 @@
+F:\Users\Win8.1\Documents\BasSolutions\BrincandoDeDDD.Application\BrincandoDeDDD.Domain\bin\Debug\ProjetoModeloDDD.Domain.dll
+F:\Users\Win8.1\Documents\BasSolutions\BrincandoDeDDD.Application\BrincandoDeDDD.Domain\bin\Debug\ProjetoModeloDDD.Domain.pdb
+F:\Users\Win8.1\Documents\BasSolutions\BrincandoDeDDD.Application\BrincandoDeDDD.Domain\obj\Debug\BrincandoDeDDD.Domain.csprojAssemblyReference.cache
+F:\Users\Win8.1\Documents\BasSolutions\BrincandoDeDDD.Application\BrincandoDeDDD.Domain\obj\Debug\BrincandoDeDDD.Domain.csproj.CoreCompileInputs.cache
+F:\Users\Win8.1\Documents\BasSolutions\BrincandoDeDDD.Application\BrincandoDeDDD.Domain\obj\Debug\ProjetoModeloDDD.Domain.dll
+F:\Users\Win8.1\Documents\BasSolutions\BrincandoDeDDD.Application\BrincandoDeDDD.Domain\obj\Debug\ProjetoModeloDDD.Domain.pdb

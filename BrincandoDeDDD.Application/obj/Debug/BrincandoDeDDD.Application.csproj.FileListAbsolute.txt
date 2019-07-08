@@ -1,0 +1,9 @@
+F:\Users\Win8.1\Documents\BasSolutions\BrincandoDeDDD.Application\BrincandoDeDDD.Application\bin\Debug\ProjetoModeloDDD.Application.dll
+F:\Users\Win8.1\Documents\BasSolutions\BrincandoDeDDD.Application\BrincandoDeDDD.Application\bin\Debug\ProjetoModeloDDD.Application.pdb
+F:\Users\Win8.1\Documents\BasSolutions\BrincandoDeDDD.Application\BrincandoDeDDD.Application\bin\Debug\ProjetoModeloDDD.Domain.dll
+F:\Users\Win8.1\Documents\BasSolutions\BrincandoDeDDD.Application\BrincandoDeDDD.Application\bin\Debug\ProjetoModeloDDD.Domain.pdb
+F:\Users\Win8.1\Documents\BasSolutions\BrincandoDeDDD.Application\BrincandoDeDDD.Application\obj\Debug\BrincandoDeDDD.Application.csprojAssemblyReference.cache
+F:\Users\Win8.1\Documents\BasSolutions\BrincandoDeDDD.Application\BrincandoDeDDD.Application\obj\Debug\BrincandoDeDDD.Application.csproj.CoreCompileInputs.cache
+F:\Users\Win8.1\Documents\BasSolutions\BrincandoDeDDD.Application\BrincandoDeDDD.Application\obj\Debug\BrincandoDeDDD.Application.csproj.CopyComplete
+F:\Users\Win8.1\Documents\BasSolutions\BrincandoDeDDD.Application\BrincandoDeDDD.Application\obj\Debug\ProjetoModeloDDD.Application.dll
+F:\Users\Win8.1\Documents\BasSolutions\BrincandoDeDDD.Application\BrincandoDeDDD.Application\obj\Debug\ProjetoModeloDDD.Application.pdb

@@ -1,0 +1,14 @@
+F:\Users\Win8.1\Documents\BasSolutions\BrincandoDeDDD.Application\BrincandoDeDDD.Infra.Data\bin\Debug\ProjetoModeloDDD.Infra.Data.dll.config
+F:\Users\Win8.1\Documents\BasSolutions\BrincandoDeDDD.Application\BrincandoDeDDD.Infra.Data\bin\Debug\ProjetoModeloDDD.Infra.Data.dll
+F:\Users\Win8.1\Documents\BasSolutions\BrincandoDeDDD.Application\BrincandoDeDDD.Infra.Data\bin\Debug\ProjetoModeloDDD.Infra.Data.pdb
+F:\Users\Win8.1\Documents\BasSolutions\BrincandoDeDDD.Application\BrincandoDeDDD.Infra.Data\bin\Debug\EntityFramework.dll
+F:\Users\Win8.1\Documents\BasSolutions\BrincandoDeDDD.Application\BrincandoDeDDD.Infra.Data\bin\Debug\EntityFramework.SqlServer.dll
+F:\Users\Win8.1\Documents\BasSolutions\BrincandoDeDDD.Application\BrincandoDeDDD.Infra.Data\bin\Debug\ProjetoModeloDDD.Domain.dll
+F:\Users\Win8.1\Documents\BasSolutions\BrincandoDeDDD.Application\BrincandoDeDDD.Infra.Data\bin\Debug\ProjetoModeloDDD.Domain.pdb
+F:\Users\Win8.1\Documents\BasSolutions\BrincandoDeDDD.Application\BrincandoDeDDD.Infra.Data\bin\Debug\EntityFramework.xml
+F:\Users\Win8.1\Documents\BasSolutions\BrincandoDeDDD.Application\BrincandoDeDDD.Infra.Data\bin\Debug\EntityFramework.SqlServer.xml
+F:\Users\Win8.1\Documents\BasSolutions\BrincandoDeDDD.Application\BrincandoDeDDD.Infra.Data\obj\Debug\BrincandoDeDDD.Infra.Data.csprojAssemblyReference.cache
+F:\Users\Win8.1\Documents\BasSolutions\BrincandoDeDDD.Application\BrincandoDeDDD.Infra.Data\obj\Debug\BrincandoDeDDD.Infra.Data.csproj.CoreCompileInputs.cache
+F:\Users\Win8.1\Documents\BasSolutions\BrincandoDeDDD.Application\BrincandoDeDDD.Infra.Data\obj\Debug\BrincandoDeDDD.Infra.Data.csproj.CopyComplete
+F:\Users\Win8.1\Documents\BasSolutions\BrincandoDeDDD.Application\BrincandoDeDDD.Infra.Data\obj\Debug\ProjetoModeloDDD.Infra.Data.dll
+F:\Users\Win8.1\Documents\BasSolutions\BrincandoDeDDD.Application\BrincandoDeDDD.Infra.Data\obj\Debug\ProjetoModeloDDD.Infra.Data.pdb
